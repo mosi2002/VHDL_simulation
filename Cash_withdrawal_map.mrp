@@ -1,0 +1,30 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Mapping Report File for Design 'Cash_withdrawal'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc6vcx75t-ff484-2 -w -logic_opt off -ol
+high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off
+-pr off -lc off -power off -o Cash_withdrawal_map.ncd Cash_withdrawal.ngd
+Cash_withdrawal.pcf 
+Target Device  : xc6vcx75t
+Target Package : ff484
+Target Speed   : -2
+Mapper Version : virtex6 -- $Revision: 1.55 $
+Mapped Date    : Thu Jun 30 16:35:05 2022
+
+Design Summary
+--------------
+Number of errors   :   2
+Number of warnings :   0
+
+Section 1 - Errors
+------------------
+ERROR:Map:116 - The design is empty.  No processing will be done.
+ERROR:Map:52 - Problem encountered processing RPMs. 
+
+Section 2 - Warnings
+--------------------
+
+Section 3 - Informational
+-------------------------

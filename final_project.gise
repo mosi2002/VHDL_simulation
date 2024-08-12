@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="final_project.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="Cash_withdrawal.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Cash_withdrawal.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Cash_withdrawal.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Cash_withdrawal.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="Cash_withdrawal.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Cash_withdrawal.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Cash_withdrawal.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Cash_withdrawal.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Cash_withdrawal.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Cash_withdrawal.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Cash_withdrawal_envsettings.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="Cash_withdrawal_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="Cash_withdrawal_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Cash_withdrawal_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Cash_withdrawal_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Cash_withdrawal_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1656590677" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1656590677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590677" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="1940231610338116626" xil_pn:start_ts="1656590677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590677" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="7099214915924615776" xil_pn:start_ts="1656590677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590677" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1656590677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590677" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="8849512716248653250" xil_pn:start_ts="1656590677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590677" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-2777237817060198042" xil_pn:start_ts="1656590677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590677" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="3376533466105480234" xil_pn:start_ts="1656590677">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656672054" xil_pn:in_ck="-5671394564462879995" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-7873029152669298890" xil_pn:start_ts="1656672046">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Cash_withdrawal.lso"/>
+      <outfile xil_pn:name="Cash_withdrawal.ngc"/>
+      <outfile xil_pn:name="Cash_withdrawal.ngr"/>
+      <outfile xil_pn:name="Cash_withdrawal.prj"/>
+      <outfile xil_pn:name="Cash_withdrawal.syr"/>
+      <outfile xil_pn:name="Cash_withdrawal.xst"/>
+      <outfile xil_pn:name="Cash_withdrawal_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590693" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-6198914539953125523" xil_pn:start_ts="1656590692">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590702" xil_pn:in_ck="-5671394564462888741" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="7413603454941368906" xil_pn:start_ts="1656590693">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Cash_withdrawal.bld"/>
+      <outfile xil_pn:name="Cash_withdrawal.ngd"/>
+      <outfile xil_pn:name="Cash_withdrawal_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1656590713" xil_pn:in_ck="-5671394564462888740" xil_pn:name="TRANEXT_map_virtex6" xil_pn:prop_ck="-7406072446961783193" xil_pn:start_ts="1656590702">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="Cash_withdrawal_map.map"/>
+      <outfile xil_pn:name="Cash_withdrawal_map.mrp"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

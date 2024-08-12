@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 69: <arg fmt="%s" index="1">active</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 101: <arg fmt="%s" index="1">comp_max</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 102: <arg fmt="%s" index="1">temp</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 104: <arg fmt="%s" index="1">sum</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 108: <arg fmt="%s" index="1">sum</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 116: <arg fmt="%s" index="1">counter_reset</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 122: <arg fmt="%s" index="1">sum</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 124: <arg fmt="%s" index="1">t_count</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 131: <arg fmt="%s" index="1">mony_in</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 132: <arg fmt="%s" index="1">mony_out_t</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1401" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 56: Signal <arg fmt="%s" index="1">mony_out[10]</arg> in unit <arg fmt="%s" index="2">Cash_withdrawal</arg> is connected to following multiple drivers:
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1401" delta="new" >"F:\Xilinx-ISE\14.7\ISE_DS\projects\final_project\Cash_withdrawal.vhd" Line 64: Signal <arg fmt="%s" index="1">counter_reset</arg> in unit <arg fmt="%s" index="2">Cash_withdrawal</arg> is connected to following multiple drivers:
+</msg>
+
+</messages>
+
