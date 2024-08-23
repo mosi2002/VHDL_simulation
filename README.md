@@ -33,6 +33,9 @@ Main RTL:
 
 ![image](https://github.com/user-attachments/assets/b193eb14-fc13-42b6-9f46-791a4ba8890c)
 
+Cash Withdrawal:
+
+![image](https://github.com/user-attachments/assets/9dfa2e25-701b-4117-9180-e0956b0379bf)
 
 
 
