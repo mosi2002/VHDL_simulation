@@ -1,5 +1,5 @@
-# ATM Simulator
-# A Vhdl code for atm simulation
+
+# A Vhdl code for Automated Teller Machine
 
 Design, implement, verify, and test an Automated Teller Machine based on the following
 specification:
@@ -30,7 +30,7 @@ nesaeian.mostafa@gmail.com
 
 
 # Acknowledgments
-This was a project for Digital logic circuit.
+This is  a project in Digital Logic Circuits, which was rigorously assessed, and was awarded an outstanding score of 95 out of 100. 
 
 
 
