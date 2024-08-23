@@ -27,7 +27,12 @@ just run main parts in folders. for more information send email:
 nesaeian.mostafa@gmail.com
 ```
 ## Results
+
+Main RTL:
 ![image](https://github.com/user-attachments/assets/b193eb14-fc13-42b6-9f46-791a4ba8890c)
+
+Entering PIN:
+![image](https://github.com/user-attachments/assets/a4a99b5d-b116-458c-934a-c91739928529)
 
 
 
