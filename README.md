@@ -35,7 +35,7 @@ Main RTL:
 
 Cash Withdrawal:
 
-![image](https://github.com/user-attachments/assets/9dfa2e25-701b-4117-9180-e0956b0379bf)
+![image](https://github.com/user-attachments/assets/79428ed6-6e2d-4dd4-abbe-369332abf51f)
 
 
 
