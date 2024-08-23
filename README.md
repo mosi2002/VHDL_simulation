@@ -16,32 +16,21 @@ The teller machine should provide the following services to the user (operator):
 ## Clone the Repository:
 
 ```
-git clone https://git
+git clone https://github.com/mosi2002/VHDL_simulation_ATM.git
 ```
 
 ## Usage 
 Instructions on how to run the code, experiments, and reproduce results.
-```
-python -m scripts.test_pybullet_MPPI
-```
-Once everything successfully installed, you'll see the simulated robot following a helical trajectory within the PyBullet simulator.
-
-
-
-
-and for the MLP forward kinematics model, you can run the following command:
-```
-python -m scripts.test_Full_FK
+just run main parts in folders. for more information send email:
 
 ```
-
-
-
-
+nesaeian.mostafa@gmail.com
+```
 
 
 
 # Acknowledgments
+This was a project for Digital logic circuit.
 
 
 
